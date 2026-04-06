@@ -11,7 +11,7 @@ A fully functional AI chatbot powered by **Google Gemini** with:
 
 ---
 
-## 📋 Prerequisites (What You Need Installed)
+## Prerequisites (What You Need Installed)
 
 1. **Node.js** (version 14 or higher)
    - Download from: https://nodejs.org/
