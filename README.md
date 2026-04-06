@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot - Complete Setup Guide (Google Gemini)
+# AI Chatbot - Complete Setup Guide (Google Gemini)
 
 ## What You've Built
 A fully functional AI chatbot powered by **Google Gemini** with:
