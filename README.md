@@ -7,7 +7,7 @@ A fully functional AI chatbot powered by **Google Gemini** with:
 - Integration with Gemini 1.5 Pro & Flash models
    Multiple AI personalities (Helpful, Creative, Professional, Teacher, Coder)
 - Conversation memory
-- ✅ Modern, responsive design
+- Modern, responsive design
 
 ---
 
