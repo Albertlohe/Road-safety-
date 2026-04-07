@@ -72,7 +72,7 @@ A fully functional AI chatbot powered by **Google Gemini** with:
    You should see:
    ```
     AI Chatbot Backend running on http://localhost:3001
-   📡 Ready to receive requests from frontend
+    Ready to receive requests from frontend
    ```
 
 ### Step 3: Open the Frontend
