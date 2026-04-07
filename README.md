@@ -159,7 +159,7 @@ maxOutputTokens: 1024,  // Change to 2048 or 4096
 
 ---
 
-## 💰 API Costs
+##  API Costs
 
 **Gemini 1.5 Flash (Recommended):**
 - Free: 15 requests/min, 1M tokens/day
