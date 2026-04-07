@@ -117,7 +117,7 @@ Click "Clear Chat" to start a fresh conversation.
 
 ---
 
-## 🔧 Customization Ideas
+##  Customization Ideas
 
 ### Change the AI Model
 
