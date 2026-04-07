@@ -171,7 +171,7 @@ maxOutputTokens: 1024,  // Change to 2048 or 4096
 
 **Typical usage:** $0.0001 - $0.001 per message
 
-Start with FREE tier! 🎉
+Start with FREE tier! 
 
 ---
 
